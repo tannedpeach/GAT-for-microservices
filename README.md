@@ -1,2 +1,16 @@
-# GAT-for-microservices
-Two novel graph attention networks (multi-headed and single-headed attention), which integrate graph representation, detection of outlier nodes and microservice clustering as part of the monolith to microservices refactoring process.
+
+Code for the paper:
+#### Graph Neural Network to Dilute Outliers for Refactoring Monolith Application
+Utkarsh Desai, Sambaran Bandyopadhyay, Srikanth Tamilselvam accepted at AAAI 2021
+
+#### Data:
+The 4 applications used in the paper are present in the folder cogcn/data/apps/<appname>
+
+#### To Run (with sample data)
+```
+cd cogcn
+python train.py --dataset-str data/apps/<appname>
+```
+-----------------------------------------------------------------
+####  The code is based on https://github.com/zfjsail/gae-pytorch
+-----------------------------------------------------------------
