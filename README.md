@@ -1,7 +1,7 @@
 
-Code for the paper:
-#### Graph Neural Network to Dilute Outliers for Refactoring Monolith Application
-Utkarsh Desai, Sambaran Bandyopadhyay, Srikanth Tamilselvam accepted at AAAI 2021
+Link for the paper: https://ieeexplore.ieee.org/abstract/document/10181169
+#### Improving Industry 4.0 Readiness: Monolith Application Refactoring using Graph Attention Networks
+Tanisha Rathod, Christina Terese Joseph, John Paul Martin accepted at IEEE CCGrid 2023
 
 #### Data:
 The 4 applications used in the paper are present in the folder cogcn/data/apps/<appname>
